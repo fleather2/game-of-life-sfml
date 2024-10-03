@@ -1,5 +1,11 @@
 # Conway's Game of Life in SFML
 
+## Instructions for Installing and running
+From this directory, build the project with:
+`mkdir build`
+`cd build`
+`cmake ../`
+`make -j4`
 
 # CMake SFML Project Template
 
