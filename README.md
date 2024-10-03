@@ -7,6 +7,10 @@ From this directory, build the project with:
 `cmake ../`
 `make -j4`
 
+Then, run the program with `./bin/game_of_life.
+
+The simulation may be paused and restarted with the spacebar. Cells may be killed or brought alive by clicking on them.
+
 # CMake SFML Project Template
 
 This repository template should allow for a fast and hassle-free kick start of your next SFML project using CMake.
