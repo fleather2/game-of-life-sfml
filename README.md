@@ -1,3 +1,6 @@
+# Conway's Game of Life in SFML
+
+
 # CMake SFML Project Template
 
 This repository template should allow for a fast and hassle-free kick start of your next SFML project using CMake.
